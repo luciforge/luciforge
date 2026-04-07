@@ -74,7 +74,7 @@
 
 ## 🚀 Latest Projects
 
-- 🔧 **Predictive Maintenance System** — End-to-end ML on NASA CMAPSS: XGBoost + LSTM + CoxPH, MLflow registry, ONNX serving, Evidently monitoring, Docker
+- 🔧 Predictive Maintenance on NASA CMAPSS: XGBoost + LSTM + TCN + CoxPH, conformal uncertainty intervals, cost-sensitive policy, MLflow registry, FastAPI serving, Evidently monitoring, Docker
 - 🚗 **Generative AI for Aerodynamic Car Design** — DDPM diffusion + ResNet18 drag surrogate + CMA-ES latent optimization (DrivAerNet++)
 - 😷 **Face Mask Detection (MobileNetV2)** — Real-time 3-class detector, 96% accuracy, F1=0.93, 45 FPS on CPU
 - 🔍 **NLP Semantic E-Commerce Search Engine** — RAG + FAISS + cross-encoder re-ranking + Gemini AI recommendations
