@@ -1,11 +1,44 @@
 <h1 align="center">Hi there 👋, I'm Prashant Vashisht</h1>
 
-<h3 align="center">ML &amp; Computer Vision Engineer &nbsp;|&nbsp; M.Sc. AI @ BTU Cottbus &nbsp;|&nbsp; Berlin, Germany</h3>
+<h3 align="center">AI &amp; ML Engineer · Computer Vision · Interpretable Machine Learning</h3>
 
 <p align="center">
-  <a href="mailto:pprashant341@gmail.com"><img src="https://img.shields.io/badge/Gmail-pprashant341%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Prashant%20Vashisht-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  M.Sc. Artificial Intelligence @ BTU Cottbus · Berlin, Germany
 </p>
+
+<p align="center">
+  <a href="mailto:pprashant341@gmail.com"><img src="https://img.shields.io/badge/Gmail-pprashant341%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/v-prashant"><img src="https://img.shields.io/badge/LinkedIn-Prashant%20Vashisht-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+I build ML systems from experimentation to deployment. At **Fresenius Medical Care**, I work on production AI and enterprise document intelligence. My current master’s thesis explores **interpretable multiclass learning through quantum logic decision trees**.
+
+---
+
+## 🔬 Current Research: Interpretable Multiclass Learning
+
+**How can a model learn complex decision boundaries while keeping its decisions understandable?**
+
+For my master’s thesis, I’m exploring multiclass extensions of **Quantum Logic Decision Trees (QLDT/QLDT+)**. The research investigates how a shared tree can represent evidence for several classes and express its decisions through logical rules.
+
+### What I’m exploring
+
+- **Multiclass reasoning:** how to extend binary QLDT learning to several classes, comparing a shared native model with one-vs-rest, one-vs-one, and error-correcting output codes.
+- **Readable explanations:** how tree paths and class evidence can help explain why a model chooses one class over another.
+- **Performance and complexity:** how stopping rules and model size affect predictive quality and the fidelity of explanations.
+- **Generalisation and class imbalance:** how these methods behave across datasets with different characteristics, including medical classification problems.
+
+### The goal
+
+To understand **when QLDT-based models offer a useful balance between predictive performance, computational cost, and interpretability**—and where their limitations lie.
+
+I’m particularly interested in whether a shared multiclass structure can produce coherent explanations without requiring a separate model for every class.
+
+### Why this matters
+
+In applications such as healthcare, a prediction is only part of the picture. People also need to inspect the reasoning behind it, understand its limitations, and assess whether it is appropriate for the decision at hand.
+
+This research examines how logical model structure can support that inspection, while evaluating predictive performance and explanation complexity together.
 
 ---
 
@@ -14,6 +47,17 @@
 - 🧠 &nbsp;Interests: **Computer Vision · MLOps · GenAI / RAG · Explainable AI**
 - ☕ &nbsp;Fun fact: I optimize models before I optimize my coffee order
 
+---
+
+## 🚀 Some of my work:
+
+- 🔧 Predictive Maintenance on NASA CMAPSS: XGBoost + LSTM + TCN + CoxPH, conformal uncertainty intervals, cost-sensitive policy, MLflow registry, FastAPI serving, Evidently monitoring, Docker
+- 🚗 **Generative AI for Aerodynamic Car Design** — DDPM diffusion + ResNet18 drag surrogate + CMA-ES latent optimization (DrivAerNet++)
+- 😷 **Face Mask Detection (MobileNetV2)** — Real-time 3-class detector, 96% accuracy, F1=0.93, 45 FPS on CPU
+- 🔍 **NLP Semantic E-Commerce Search Engine** — RAG + FAISS + cross-encoder re-ranking + Gemini AI recommendations
+- 🏥 **Patient Education Bot** — Medical RAG chatbot: simplifies lab results into patient-friendly explanations with cited sources
+
+---
 <table>
 <tr>
 <td width="45%">
@@ -69,14 +113,6 @@
 💬 &nbsp;**A few soft skills:** product ownership & stakeholder communication · rapid prototyping under ambiguity · cross-functional collaboration · agile delivery
 
 ---
-
-## 🚀 Latest Projects
-
-- 🔧 Predictive Maintenance on NASA CMAPSS: XGBoost + LSTM + TCN + CoxPH, conformal uncertainty intervals, cost-sensitive policy, MLflow registry, FastAPI serving, Evidently monitoring, Docker
-- 🚗 **Generative AI for Aerodynamic Car Design** — DDPM diffusion + ResNet18 drag surrogate + CMA-ES latent optimization (DrivAerNet++)
-- 😷 **Face Mask Detection (MobileNetV2)** — Real-time 3-class detector, 96% accuracy, F1=0.93, 45 FPS on CPU
-- 🔍 **NLP Semantic E-Commerce Search Engine** — RAG + FAISS + cross-encoder re-ranking + Gemini AI recommendations
-- 🏥 **Patient Education Bot** — Medical RAG chatbot: simplifies lab results into patient-friendly explanations with cited sources
 
 <p align="center">
   💬 &nbsp;<a href="mailto:pprashant341@gmail.com">pprashant341@gmail.com</a>
