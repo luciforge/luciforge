@@ -134,7 +134,3 @@ This research examines how logical model structure can support that inspection, 
 💬 &nbsp;**A few soft skills:** product ownership & stakeholder communication · cross-functional collaboration · agile delivery · finding the real problem · bringing clarity to messy discussions · keeping momentum when plans change
 
 ---
-
-<p align="center">
-  💬 &nbsp;<a href="mailto:pprashant341@gmail.com">pprashant341@gmail.com</a>
-</p>
