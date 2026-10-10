@@ -72,7 +72,6 @@ This research examines how logical model structure can support that inspection, 
 - Vision systems that work in production — not just benchmarks
 - RAG pipelines that don't hallucinate — retrieval quality, re-ranking, grounding
 
-<img src="https://github.com/user-attachments/assets/551e3854-75d2-4b8b-a0d3-2ec9de6f4e7c" width="120" align="left"/>
 <br/>
 
 </td>
