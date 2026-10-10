@@ -31,8 +31,6 @@
 <img src="https://github.com/user-attachments/assets/551e3854-75d2-4b8b-a0d3-2ec9de6f4e7c" width="120" align="left"/>
 <br/>
 
-*"Building systems by day, planning the next trip by night!"*
-
 </td>
 </tr>
 </table>
